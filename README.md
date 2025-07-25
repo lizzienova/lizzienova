@@ -3,9 +3,9 @@
 
 - ⚡ Fun fact [I have an orange cat named Flynn and I'm Irish/Brazilian :)](I have an orange cat named Flynn and I'm Irish/Brazilian :))
 
-- 📫 How to reach me **lisvillanovaa@gmail.com**
+- 📫 How to reach me -> **lisvillanovaa@gmail.com**
 
-- 📄 Know about my experiences [I know how to work both in Python and C and I'm currently learning the basics of frontend dev](I know how to work both in Python and C and I'm currently learning the basics of frontend dev)
+- 📄 Know about my experiences -> I know how to work both in Python and C and I'm currently learning the basics of frontend dev
 
 - My Hobbies -> **crocheting, playing cozy videogames and watching volleyball games**
 
