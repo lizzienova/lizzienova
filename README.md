@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **lisvillanovaa@gmail.com**
 
-- 📄 Know about my experiences [I speak portuguese and english and know basic korean and spanish. I know how to work both in Python and C and I'm currently learning the basics of frontend dev]
+- I speak portuguese and english and know basic korean and spanish. I know how to work both in Python and C and I'm currently learning the basics of frontend dev
 
 
 - ⚡ Fun fact **I have an orange cat named Flynn and I'm Irish/Brazilian :)**
