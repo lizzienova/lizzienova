@@ -5,9 +5,9 @@
 
 - 📫 How to reach me **lisvillanovaa@gmail.com**
 
-- 📄 Know about my experiences [I speak portuguese and english and know basic korean and spanish. I know how to work both in Python and C and I'm currently learning the basics of frontend dev](I speak portuguese and english and know basic korean and spanish. I know how to work both in Python and C and I'm currently learning the basics of frontend dev)
+- 📄 Know about my experiences [I know how to work both in Python and C and I'm currently learning the basics of frontend dev](I know how to work both in Python and C and I'm currently learning the basics of frontend dev)
 
-- My Hobbies **crocheting, playing cozy videogames and watching volleyball games**
+- My Hobbies -> **crocheting, playing cozy videogames and watching volleyball games**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
