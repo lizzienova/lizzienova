@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lis</h1>
 <h3 align="center">A developer from Brazil!</h3>
 
-- ⚡ Fun fact [I have an orange cat named Flynn and I'm Irish/Brazilian :)](I have an orange cat named Flynn and I'm Irish/Brazilian :))
+- ⚡ Fun fact -> I have an orange cat named Flynn and I'm Irish/Brazilian :)
 
 - 📫 How to reach me -> **lisvillanovaa@gmail.com**
 
