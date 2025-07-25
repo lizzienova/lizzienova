@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Lis</h1>
-<h3 align="center">A passionate developer from Brazil!</h3>
+<h3 align="center">A developer from Brazil!</h3>
 
 - 📫 How to reach me **lisvillanovaa@gmail.com**
 
-- I speak portuguese and english I know how to work both in Python and C and I'm currently learning the basics of frontend dev
+- 📄 Know about my experiences [I speak portuguese and english and know basic korean and spanish. I know how to work both in Python and C and I'm currently learning the basics of frontend dev](I speak portuguese and english and know basic korean and spanish. I know how to work both in Python and C and I'm currently learning the basics of frontend dev)
 
-- ⚡**I have an orange cat named Flynn and I'm Irish/Brazilian :)**
+- ⚡ Fun fact **I have an orange cat named Flynn and I'm Irish/Brazilian :)**
+
+- My Hobbies [crocheting, playing cozy videogames and watching volleyball games](crocheting, playing cozy videogames and watching volleyball games)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
